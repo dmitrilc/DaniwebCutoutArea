@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.DaniwebCutoutArea">
+<!--         Customize your theme here.-->
+        <item name="android:windowLayoutInDisplayCutoutMode">
+<!--            default-->
+            shortEdges
+<!--            never-->
+<!--            always-->
+        </item>
+    </style>
+</resources>
